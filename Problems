@@ -1,0 +1,20 @@
+
+To Install web Copyer :
+    sudo apt-get install webhttrack
+
+To Fix Desktop If  not Appearing :
+    xfdesktop
+
+To Install Telegram :
+    sudo apt-get install webhttrack
+
+To Give The Visiual Files The Premition Of RW :
+    sudo chmod -R 777 School_Sys
+
+If Partitions Not Opening In Kali :
+    1- Go To Windows OS
+    2- Open CMD Type : chkdsk
+
+
+
+
