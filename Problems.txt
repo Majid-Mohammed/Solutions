@@ -18,3 +18,6 @@ If Partitions Not Opening In Kali :
 
 
 
+Solving ShortCut Problems :
+   1- del *.lnk
+   2- attrib -s -r -h *.* /s /d /l
